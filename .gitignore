@@ -1,0 +1,8 @@
+# Dados gerados localmente (não versionar planilha de teste/uso real)
+estoque.xlsx
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
